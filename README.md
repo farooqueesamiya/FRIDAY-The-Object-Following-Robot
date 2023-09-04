@@ -104,8 +104,7 @@ The Smart Color-Based Object Tracking Robot has a wide range of real-world appli
 
 ### Software Setup:
 
-- The software setup involves configuring the Raspberry Pi OS, installing OpenCV for computer vision, and optionally setting up OpenVPN for remote operation.
-- 
+- The software setup involves configuring the Raspberry Pi OS, installing OpenCV for computer vision, and optionally setting up OpenVPN for remote operation. 
 
 ### Running the Code:
 
