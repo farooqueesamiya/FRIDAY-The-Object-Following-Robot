@@ -5,19 +5,24 @@ This GitHub repository documents the design and development of an object-followi
 
 ## Table of Contents
 1. Introduction
-2. Objectives
-3. Applications
-4. Hardware Requirements
-5. Software Requirements
-6. Installation and Setup
-7. Project Implementation
-8. Conclusion
+2. Acknowledgement
+3. Objectives
+4. Applications
+5. Hardware Requirements
+6. Software Requirements
+7. Installation and Setup
+8. Project Implementation
+9. Conclusion
 
 ## 1. Introduction
 
 The Smart Color-Based Object Tracking Robot is an innovative project designed as part of a computer science engineering final year endeavor. Leveraging the power of the Raspberry Pi, computer vision, and robotics, this project aims to create an autonomous robot capable of detecting and tracking objects based on their color in real-time. This documentation outlines the project's objectives, applications, hardware and software requirements, installation procedures, and the steps involved in creating the robot.
 
-## 2. Objectives
+## 2. Acknowledgement
+
+I would like to extend my heartfelt gratitude to the Integral University Robotics Lab (https://www.robotics.iul.ac.in/) for their invaluable support throughout the development of this project. Their generous provision of funds, tools, and a conducive environment for research and innovation has been instrumental in bringing this project to fruition. I am also deeply appreciative of their guidance and expertise, which have played a pivotal role in the successful design and implementation of the object-following robot using Raspberry Pi. This project would not have been possible without their unwavering support and mentorship.
+
+## 3. Objectives
 
 - Develop a color-based object tracking system using the Raspberry Pi.
 - Implement computer vision techniques to detect and follow objects of specific colors.
@@ -25,7 +30,7 @@ The Smart Color-Based Object Tracking Robot is an innovative project designed as
 - Enable the robot to autonomously make decisions based on the position and size of detected objects.
 - Integrate remote operation and monitoring capabilities.
 
-## 3. Applications
+## 4. Applications
 
 The Smart Color-Based Object Tracking Robot has a wide range of real-world applications, including:
 - **Industrial Automation:** Sorting and material handling tasks in manufacturing and logistics.
@@ -39,7 +44,7 @@ The Smart Color-Based Object Tracking Robot has a wide range of real-world appli
 - **Accessibility:** Aiding individuals with specific needs.
 - **Humanoid Robotics:** Enhancing interaction capabilities in humanoid robots.
 
-## 4. Hardware Requirements
+## 5. Hardware Requirements
 
 - Raspberry Pi 3 board 
 - Raspberry Pi Camera (B) Rev 2.0 (Rpi Cam)
@@ -50,13 +55,13 @@ The Smart Color-Based Object Tracking Robot has a wide range of real-world appli
 - Li-Po battery
 - DC switch
 
-## 5. Software Requirements
+## 6. Software Requirements
 
 - Raspberry Pi OS
 - OpenCV (Computer Vision Library)
 - OpenVPN (for remote operation)
 
-## 6. Installation and Setup
+## 7. Installation and Setup
 
 ### Raspberry Pi OS Installation:
 1. Download Raspberry Pi OS from the official website raspberrypi.com.
@@ -76,7 +81,7 @@ The Smart Color-Based Object Tracking Robot has a wide range of real-world appli
 ### Installing OpenVPN (Optional):
 - Follow the documentation provided by OpenVPN for installation and configuration: https://openvpn.net/
 
-## 7. Project Implementation
+## 8. Project Implementation
 
 ### Hardware Setup:
 
@@ -115,6 +120,6 @@ The Smart Color-Based Object Tracking Robot has a wide range of real-world appli
 
 **Note:** Be sure to follow safety precautions when working with the hardware, especially when handling power components and motor connections.
 
-## 8. Conclusion
+## 9. Conclusion
 
 The Smart Color-Based Object Tracking Robot is an exciting project that showcases the integration of computer vision, robotics, and remote control using the Raspberry Pi. Its potential applications are diverse, ranging from industrial automation to augmented reality. By following the outlined hardware and software requirements, installation steps, and implementation process, this project opens up a world of possibilities for innovation in the field of computer science engineering.
