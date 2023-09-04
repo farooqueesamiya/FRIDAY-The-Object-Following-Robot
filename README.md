@@ -59,7 +59,7 @@ The Smart Color-Based Object Tracking Robot has a wide range of real-world appli
 
 - Raspberry Pi OS
 - OpenCV (Computer Vision Library)
-- OpenVPN (for remote operation)
+- VNC viewer (for remote operation)
 
 ## 7. Installation and Setup
 
@@ -78,8 +78,8 @@ The Smart Color-Based Object Tracking Robot has a wide range of real-world appli
   sudo apt-get install python3-opencv
   
 
-### Installing OpenVPN (Optional):
-- Follow the documentation provided by OpenVPN for installation and configuration: https://openvpn.net/
+### Installing VNC Viewer (Optional):
+- Follow the documentation provided by OpenVPN for installation and configuration: https://www.realvnc.com/en/connect/download/viewer/
 
 ## 8. Project Implementation
 
